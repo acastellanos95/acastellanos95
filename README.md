@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: andre](https://img.shields.io/badge/-andre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acastellanos95/)](https://www.linkedin.com/in/acastellanos95/)
-![GitHub followers](https://img.shields.io/github/followers/acastellanos95?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/acastellanos95?style=social)
 [![Gmail](https://img.shields.io/badge/-Gmail-blue?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:acastellanosaldama@gmail.com)](mailto:acastellanosaldama@gmail.com)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://andrecastellanos.dev/)](https://andrecastellanos.dev/)
 ![](https://visitor-badge.glitch.me/badge?page_id=acastellanos95.acastellanos95)
@@ -39,7 +39,7 @@ const andre = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love knowing new people, so send me an email</b></em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love knowing new people, so send me an email.</b></em>
 
 ---
 <!--
